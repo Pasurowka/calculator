@@ -21,6 +21,7 @@ $RECYCLE.BIN/
 .pioenvs
 .clang_complete
 .gcc-flags.json
+.travis.yml
 
 # =========================
 # Operating System Files
